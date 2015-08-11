@@ -1,0 +1,55 @@
+- 
+  date: "2015-08-30"
+  dateReadable: "August 30"
+  tracks: 
+    - {title: "Android App Entwicklung", color: "#90be4e"}
+  timeslots:
+    - {
+        startTime: "9:30",
+        endTime: "13:00",
+        sessionIds: [100]
+    }
+- 
+  date: "2015-08-31"
+  dateReadable: "August 31"
+  tracks: 
+    - {title: "Robotik I", color: "#90be4e"}
+  timeslots:
+    - {
+        startTime: "9:30",
+        endTime: "13:00",
+        sessionIds: [100]
+    }
+- 
+  date: "2015-09-02"
+  dateReadable: "September 02"
+  tracks: 
+    - {title: "Robotik II", color: "#90be4e"}
+  timeslots:
+    - {
+        startTime: "9:30",
+        endTime: "13:00",
+        sessionIds: [100]
+    }
+- 
+  date: "2015-09-03"
+  dateReadable: "September 03"
+  tracks: 
+    - {title: "Künstliche Intelligenz", color: "#90be4e"}
+  timeslots:
+    - {
+        startTime: "9:30",
+        endTime: "13:00",
+        sessionIds: [100]
+    }
+- 
+  date: "2015-09-04"
+  dateReadable: "September 04"
+  tracks: 
+    - {title: "Zusammenfassung", color: "#90be4e"}
+  timeslots:
+    - {
+        startTime: "9:30",
+        endTime: "13:00",
+        sessionIds: [100]
+    }
