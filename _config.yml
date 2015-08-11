@@ -13,8 +13,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "VAcademy [XYZ]"
 email: "munichacm@gmail.com"
 description: ""
-baseurl: "/vacademy"
-url: "https://daviddao.github.io"
+baseurl: ""
+url: "https://daviddao.github.io/vacademy"
 #permalink: "/blog/:title"
 
 # Organizer Info
