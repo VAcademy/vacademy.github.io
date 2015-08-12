@@ -13,8 +13,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "VAcademy [XYZ]"
 email: "munichacm@gmail.com"
 description: ""
-baseurl: ""
-url: "https://daviddao.github.io/vacademy"
+baseurl: "/"
+url: "https://vacademy.github.io"
 #permalink: "/blog/:title"
 
 # Organizer Info
@@ -66,9 +66,9 @@ heroButtons:
 # About Block
 aboutTitle: "Vision"
 aboutBlock:
- - {title: "[X] wie Xperiment", image: "conference.jpg", text: "VAcademy [XYZ] ist VAcademys Innovations Abteilung. Der Ort an dem Träume verwirklicht werden, ein Labor der Möglichkeiten." }
- - {title: "[Y] wie Youngster", image: "workshop.jpg", text: "Es braucht Mut und junge Ideen um die großen Probleme der Welt zu lösen. Wir sind dieser frische Wind. Wir wollen die Welt verändern." }
- - {title: "[Z] wie Zukunft", image: "hackathon.jpg", text: "Mobile Technologien, Künstliche Intelligenz, Robotik - Wir sind die Erfinder der Welt von Morgen." }
+ - {title: "[X] wie Xperiment", image: "conference.jpg", text: "VAcademy [XYZ] ist VAcademys Innovations Abteilung. Ein Ort an dem Träume verwirklicht werden, ein Labor der Möglichkeiten." }
+ - {title: "[Y] wie Youngster", image: "workshop.jpg", text: "Unser Team hat den Mut und die frischen Ideen um die großen Probleme der Welt zu lösen." }
+ - {title: "[Z] wie Zukunft", image: "hackathon.jpg", text: "Mobile Technologien, Künstliche Intelligenz, Robotik - Wir sind die Erfinder von Morgen." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -125,9 +125,9 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Wir sind der Stoff, aus dem die Träume sind."
+subscribeTitle: "Die beste Methode die Zukunft vorherzusagen besteht darin, sie zu erfinden."
 subscribeAction: ""
-subscribeInfo: "- W. Shakespeare"
+subscribeInfo: "- Alan Kay"
 
 #Tickets Block
 ticketsTitle: "Pricetable"

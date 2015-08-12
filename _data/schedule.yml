@@ -1,4 +1,15 @@
 - 
+  date: "2015-08-29"
+  dateReadable: "August 29"
+  tracks: 
+    - {title: "Prolog", color: "#90be4e"}
+  timeslots:
+    - {
+        startTime: "19:30",
+        endTime: "20:00",
+        sessionIds: [1]
+    }
+- 
   date: "2015-08-30"
   dateReadable: "August 30"
   tracks: 
@@ -6,50 +17,75 @@
   timeslots:
     - {
         startTime: "9:30",
+        endTime: "12:30",
+        sessionIds: [2]
+    }
+    - {
+        startTime: "12:30",
         endTime: "13:00",
-        sessionIds: [100]
+        sessionIds: [201]
     }
 - 
   date: "2015-08-31"
   dateReadable: "August 31"
   tracks: 
-    - {title: "Robotik I", color: "#90be4e"}
+    - {title: "Robotik", color: "#90be4e"}
   timeslots:
     - {
         startTime: "9:30",
+        endTime: "12:30",
+        sessionIds: [3]
+    }
+    - {
+        startTime: "12:30",
         endTime: "13:00",
-        sessionIds: [100]
+        sessionIds: [301]
     }
 - 
   date: "2015-09-02"
   dateReadable: "September 02"
   tracks: 
-    - {title: "Robotik II", color: "#90be4e"}
+    - {title: "Künstliche Intelligenz I", color: "#90be4e"}
   timeslots:
     - {
         startTime: "9:30",
+        endTime: "12:30",
+        sessionIds: [4]
+    }
+    - {
+        startTime: "12:30",
         endTime: "13:00",
-        sessionIds: [100]
+        sessionIds: [401]
     }
 - 
   date: "2015-09-03"
   dateReadable: "September 03"
   tracks: 
-    - {title: "Künstliche Intelligenz", color: "#90be4e"}
+    - {title: "Künstliche Intelligenz II", color: "#90be4e"}
   timeslots:
     - {
         startTime: "9:30",
+        endTime: "12:30",
+        sessionIds: [5]
+    }
+    - {
+        startTime: "12:30",
         endTime: "13:00",
-        sessionIds: [100]
+        sessionIds: [501]
     }
 - 
   date: "2015-09-04"
   dateReadable: "September 04"
   tracks: 
-    - {title: "Zusammenfassung", color: "#90be4e"}
+    - {title: "Künstliche Intelligenz III & Epilog", color: "#90be4e"}
   timeslots:
     - {
         startTime: "9:30",
         endTime: "13:00",
-        sessionIds: [100]
+        sessionIds: [6]
+    }
+    - {
+        startTime: "15:00",
+        endTime: "18:00",
+        sessionIds: [601]
     }
