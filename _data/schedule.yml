@@ -13,7 +13,7 @@
   date: "2015-08-30"
   dateReadable: "August 30"
   tracks: 
-    - {title: "Android App Entwicklung", color: "#90be4e"}
+    - {title: "Grundlagen der Informatik & Android App Entwicklung I", color: "#90be4e"}
   timeslots:
     - {
         startTime: "9:30",
@@ -29,7 +29,7 @@
   date: "2015-08-31"
   dateReadable: "August 31"
   tracks: 
-    - {title: "Robotik", color: "#90be4e"}
+    - {title: "Android App Entwicklung II", color: "#90be4e"}
   timeslots:
     - {
         startTime: "9:30",
