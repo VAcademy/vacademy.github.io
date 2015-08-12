@@ -1,10 +1,4 @@
 -
-  id: 100
-  title: "Einführung"
-  language: de
-  service: true
-  description: "Willkommen bei VAcademy, Kursvorstellung, Ziele"
--
   id: 1
   title: "Einführung"
   language: de
@@ -12,28 +6,28 @@
   description: "Willkommen bei VAcademy, Kursvorstellung, Ziele"
 -
   id: 2
+  title: "Tech Talk: Grundlagen der Informatik"
+  language: de
+  service: true
+  description: "Bits und Bytes, Grundlegende Programmierkonzepte I"
+-
+  id: 201
+  title: "Tech Talk: Grundlagen der Informatik II"
+  language: de
+  service: true
+  description: "Programmierkonzepte II, Relais Programmierung"
+-
+  id: 3
   title: "Android Programmierung (MIT App Inventor)"
   language: de
   service: true
   description: "Einführung in MIT App Inventor, App Entwicklung"
 -
-  id: 201
+  id: 301
   title: "Tech Talk: Spracherkennung & Maschinelle Übersetzung"
   language: de
   service: true
   description: "Wie versteht ein Computer Sprache? Wie funktioniert Maschinelle Übersetzung?"
--
-  id: 3
-  title: "Robotik"
-  language: de
-  service: true
-  description: "Einführung in die Robotik, Roboterfernsteuerung"
--
-  id: 301
-  title: "Tech Talk: Computer Vision & Virtuelle Realität"
-  language: de
-  service: true
-  description: "Wie lernt ein Computer das Sehen? Wie generiert ein Computer Bilder?"
 -
   id: 4
   title: "Künstliche Intelligenz I"
