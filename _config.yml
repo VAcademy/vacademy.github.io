@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "VAcademy [XYZ]"
+title: "VAcademy XYZ"
 email: "munichacm@gmail.com"
 description: ""
 baseurl: ""
@@ -43,7 +43,7 @@ c4sponsorsUrl: ""
 navigationLinks:
  - {permalink: "/", text: "Home"}
  #- {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Projekt Plan"}
+ - {permalink: "/schedule/", text: "Kursinhalt"}
  #- {permalink: "/speakers/", text: "Speaker"}
  - {permalink: "/team/", text: "Team"}
  #- {permalink: "/logistics/", text: "Logistics"}
@@ -55,10 +55,10 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "<typeout> Lab"
+heroTitle: "<typeout> Kurs 2015"
 eventDate: "Wir erfinden die Welt von Morgen"
-typeoutTextValues: '"Xploration", "Innovation", "Transformation", "Virtuelle Realität", "Mobile Technologie", "Robotik", "Künstliche Intelligenz", "Singularität"'
-typeoutFallback: "Xploration"
+typeoutTextValues: '"Informatik", "Android", "Robotik", "Künstliche Intelligenz", "Autonome Fahrzeuge", "Bioinformatik"'
+typeoutFallback: "Informatik"
 heroButtons:
  #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  #- {permalink: "/#tickets", text: "Buy tickets"}
@@ -251,11 +251,11 @@ hackathonTitle: "Hackathon"
 enableHackathon: false
 
 # Hackathon About Block
-aboutHackathonTitle: "Projekte"
+aboutHackathonTitle: "Themen"
 hackathonRows:
  - {title: "Android Entwicklung", image: "hackathon-0.png", details: "Wir sind Experten in der Entwicklung mobiler Applikationen für das Android Betriebssystem. Mithilfe modernster Technologie von Harvard und MIT, erstellen wir mobile Lösungen für die großen Probleme der Welt. Übersetzungssysteme, digitale Doodeleien und hochpräzise physikalische Simulationen. Unserer Kreativität sind keine Grenzen gesetzt."}
  - {title: "Robotik", image: "hackathon-1.png", details: "Unsere Experten haben die Robotiksteuerung revolutioniert. Anhand mobiler Fernsteuerung und intelligentem Design, ist es uns möglich, unsere Roboter in einem ungeahnten Grad der Präzision zu kontrollieren. Rettungsmissionen auf unebenen Gebiet sind mithilfe unserer Technologie nun möglich."}
- - {title: "Künstliche Intelligenz", image: "hackathon-2.png", details: "Unser Ziel bei VAcademy [XYZ] ist die Erschaffung künstlicher Intelligenz. Ein intelligentes Wesen, dass unsere Möglichkeiten übersteigt und eigenständig forscht, wird die letzte Erfindung der Menschheit sein und die Welt revolutionieren. Unser Team arbeitet mit großer Leidenschaft daran, diesen Traum Wirklichkeit werden zu lassen."}
+ - {title: "Künstliche Intelligenz", image: "hackathon-2.png", details: "Unser Ziel bei VAcademy XYZ ist die Erschaffung künstlicher Intelligenz. Ein intelligentes Wesen, dass unsere Möglichkeiten übersteigt und eigenständig forscht, wird die letzte Erfindung der Menschheit sein und die Welt revolutionieren. Unser Team arbeitet mit großer Leidenschaft daran, diesen Traum Wirklichkeit werden zu lassen."}
 
 # Hackathon Judges Block
 judgesImage: "judges.jpg"

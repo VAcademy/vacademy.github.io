@@ -4,7 +4,7 @@
     <div class="content-wrapper">
     <div class="jumbotron">
 
-        <img src="{{ site.baseurl }}/img/organizers/logo_white.png">
+        <img style="max-width:100%" src="{{ site.baseurl }}/img/organizers/logo_white.png">
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
             {% assign heroText = site.heroTitle | split:"<typeout>" %}
             <h1>{{ heroText[0] }}<span id="typeout-text" class="hidden-xs"></span><span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
