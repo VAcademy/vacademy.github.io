@@ -43,9 +43,9 @@ c4sponsorsUrl: ""
 navigationLinks:
  - {permalink: "/", text: "Home"}
  #- {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Kursinhalt"}
+ - {permalink: "/skript/", text: "Kursinhalt"}
  #- {permalink: "/speakers/", text: "Speaker"}
- - {permalink: "/team/", text: "Team"}
+ #- {permalink: "/team/", text: "Team"}
  #- {permalink: "/logistics/", text: "Logistics"}
  #- {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
@@ -179,11 +179,11 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://munichacm.de", text: "munichacm.de"}
+   - {link: "http://vacademy.xyz", text: "Vorbilderakademie 2015"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:munichacm@gmail.com", text: "munichacm@gmail.com"}
+   - {link: "mailto:", text: "-"}
  # -
  #  title: "FAQ"
  #  links:
