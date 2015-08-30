@@ -60,7 +60,7 @@ eventDate: "Wir erfinden die Welt von Morgen"
 typeoutTextValues: '"Informatik", "Android", "Robotik", "Künstliche Intelligenz", "Autonome Fahrzeuge", "Bioinformatik"'
 typeoutFallback: "Informatik"
 heroButtons:
- #- {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {permalink: "/skript", text: "Zum Kursinhalt"}
  #- {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
