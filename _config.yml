@@ -253,7 +253,6 @@ enableHackathon: false
 # Hackathon About Block
 aboutHackathonTitle: "Themen"
 hackathonRows:
- - {title: "Android Entwicklung", image: "hackathon-0.png", details: "Wir sind Experten in der Entwicklung mobiler Applikationen für das Android Betriebssystem. Mithilfe modernster Technologie von Harvard und MIT, erstellen wir mobile Lösungen für die großen Probleme der Welt. Übersetzungssysteme, digitale Doodeleien und hochpräzise physikalische Simulationen. Unserer Kreativität sind keine Grenzen gesetzt."}
  - {title: "Robotik", image: "hackathon-1.png", details: "Unsere Experten haben die Robotiksteuerung revolutioniert. Anhand mobiler Fernsteuerung und intelligentem Design, ist es uns möglich, unsere Roboter in einem ungeahnten Grad der Präzision zu kontrollieren. Rettungsmissionen auf unebenen Gebiet sind mithilfe unserer Technologie nun möglich."}
  - {title: "Künstliche Intelligenz", image: "hackathon-2.png", details: "Unser Ziel bei VAcademy XYZ ist die Erschaffung künstlicher Intelligenz. Ein intelligentes Wesen, dass unsere Möglichkeiten übersteigt und eigenständig forscht, wird die letzte Erfindung der Menschheit sein und die Welt revolutionieren. Unser Team arbeitet mit großer Leidenschaft daran, diesen Traum Wirklichkeit werden zu lassen."}
 
