@@ -55,9 +55,9 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "<typeout> Kurs 2015"
+heroTitle: "<typeout> Kurs 2016"
 eventDate: "Wir erfinden die Welt von Morgen"
-typeoutTextValues: '"Informatik", "Android", "Robotik", "Künstliche Intelligenz", "Autonome Fahrzeuge", "Bioinformatik"'
+typeoutTextValues: '"Informatik", "Robotik", "Künstliche Intelligenz", "Autonome Fahrzeuge", "Bioinformatik"'
 typeoutFallback: "Informatik"
 heroButtons:
  - {permalink: "/skript", text: "Zum Kursinhalt"}
